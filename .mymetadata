@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="yunhe_interface"
+  id="myeclipse.1530435114879"
+  context-root="/yunhe_interface"
+  j2ee-spec="6.0"
+  archive="yunhe_interface.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
